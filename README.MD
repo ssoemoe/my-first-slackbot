@@ -1,2 +1,2 @@
-# Joke Slackbot
-Made a slackbot from the Traversy Media tutorial: [https://www.youtube.com/watch?v=nyyXTIL3Hkw](https://www.youtube.com/watch?v=nyyXTIL3Hkw) which sends the Chuck Norris jokes to the users. Made with Node.js.
+# Slackbot Tutorial
+Made a slackbot from the Traversy Media tutorial: [https://www.youtube.com/watch?v=25ArxpK48tU](https://www.youtube.com/watch?v=25ArxpK48tU)
