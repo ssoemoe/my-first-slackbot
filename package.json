@@ -1,7 +1,7 @@
 {
-  "name": "joke-slackbot",
+  "name": "my-first-slackbot",
   "version": "1.0.0",
-  "description": "Slackbot tutorial",
+  "description": "Slackbot tutorial from youtube",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
